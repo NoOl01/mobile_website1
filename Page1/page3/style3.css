@@ -58,6 +58,7 @@
     }
     footer div{
         height: 50px !important;
+        width: 430px !important;
     }
     .footer_left img{
         height: 30px !important;

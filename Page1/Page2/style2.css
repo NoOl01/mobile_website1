@@ -79,6 +79,7 @@ body{
     }
     footer{
         height: 50px !important;
+        width: 430px !important;
     }
     footer div{
         height: 50px !important;
